@@ -4,6 +4,8 @@ This project titled ["Recipes"](https://www.theodinproject.com/lessons/foundatio
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Key Learnings](#key-learnings)
+- [Setup](#setup)
+- [View the Live Project](#view-the-live-project)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 - [Contact](#contact)
@@ -19,6 +21,15 @@ The recipes and images have been sourced from ["Allrecipes"](https://www.allreci
 - Embedding and resizing images
 - Creating links between pages
 - Understanding and applying basic Git commands
+
+## Setup
+To access the project locally, please clone the repository using the following command:
+
+```bash
+git clone git@github.com:moitrayanchakravarty/odin-recipes.git
+```
+## View the Live Project
+You can view the live version of this project at the following link: [View Live Project](https://moitrayanchakravarty.github.io/odin-recipes/)
 
 ## Acknowledgements
 Acknowledgment is extended to ["The Odin Project"](https://www.theodinproject.com/) for the curriculum and ["Allrecipes"](https://www.allrecipes.com/) for the recipe content and images.
